@@ -9,4 +9,4 @@ Esse bot tem como objetivo fazer um trabalho de divulgação automática enviand
 
 ## 📬 Licença
 
-Essa aplicação foi criado apenas para fins de estudo. Fique à vontade para usar.
+Essa aplicação foi criada apenas para fins de estudo. Fique à vontade para usar.
