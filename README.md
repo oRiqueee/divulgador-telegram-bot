@@ -3,7 +3,7 @@ Esse bot tem como objetivo fazer um trabalho de divulgação automática enviand
 
 ## 💻 Como usar
 
-💡 Alterar o código fonte de acordo com sua preferência e iniciar a aplicação em um servidor web.
+💡 Alterar o código fonte do arquivo bot.js de acordo com sua preferência e iniciar a aplicação em um servidor web.
 
 ![](https://i.imgur.com/FJD7M4k.png)
 
