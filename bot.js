@@ -4,6 +4,7 @@ const minhaMensagem = "Mensagem"; // Mensagem que deseja enviar
 const intervaloEnvio = 120000; // Intervalo de envio das mensagens em milessegundos
 
 const linkApi = "https://api.telegram.org/bot" + token + "/sendMessage?chat_id=" + chatId + "&text=" + minhaMensagem;
+
 var qntID = document.getElementById('mensagens');
 var qntMensagem = 1;
 
