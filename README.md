@@ -1,5 +1,5 @@
 # Bot divulgador para o Telegram.
-Esse bot tem como objetivo enviar mensagens pré-definidas para algum grupo com um intervalo de tempo escolhido.
+Esse bot tem como objetivo fazer um trabalho de divulgação automática enviando mensagens pré-definidas para algum grupo, usando como base um intervalo de tempo escolhido pelo usuário.
 
 ## 💻 Como usar
 
